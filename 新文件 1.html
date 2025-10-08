@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!-- DOCTYPE=document type -->
+
+
+<html LANG="en">
+
+<head>
+	<title>Freidich's Webpage</title>
+	<meta charset="utf-8"></meta>
+</head>
+
+<body>
+	<h1>My Heading 1</hl>
+	<h2>My Heading 2</h2>
+	<h3>My Heading 3</h3>
+	<h4>My Heading 4</h4>
+	<h5>My Heading 5</h5>
+	<h6>My Heading 6</h6>
+	<hr> <!-- horizontal rule -->
+	<h2>My First Heading</h2>
+		<p>My first paragraph!<p>
+	<H2>paragraph Property</h2>
+	
+	<P> title:	 Wake me up! <br>
+	Feelin' my way through the darkness<br>
+	Guided by a beatin' heart<br>
+	I can't tell where the journey will end<br>
+	But I know where to start<br>
+	They tell me I'm too young to understand<br>
+	They say I'm caught up in a dream<br>
+	Well, life will pass me by if I don't open up my eyes<br>
+	Well, that's fine by me<br>
+			</P>
+			
+		<h2>Pre-formatted Text</h2>
+		<Pre> title: 	Wake me up! <br>
+	Feelin' my way through the darkness<br>
+	Guided by a beatin' heart<br>
+	I can't tell where the journey will end<br>
+	But I know where to start<br>
+	They tell me I'm too young to understand<br>
+	They say I'm caught up in a dream<br>
+	Well, life will pass me by if I don't open up my eyes<br>
+	Well, that's fine by me<br>
+			</Pre>
+			
+</body>
+
+
+</html>
